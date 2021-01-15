@@ -14,7 +14,7 @@ A sql database file
 ### **Solution**
 The data was not clean so Cleaning process is done usinig tableau filters then the below dashboard is created which is fully interactive. 
 
-![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/Sales-Insights-PowerBi/main/Sales%20Insights%20Dashboard.png)
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/Sales-Insights-tableau/main/dashboard.png)
 
 ### Feature of Dashboard:
 
